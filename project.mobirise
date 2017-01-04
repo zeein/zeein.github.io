@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zeeindairy.github.io",
-    "currentPage": "home-page-zeein-dairy.html",
+    "currentPage": "home-page-zeein-diary.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,169 +31,6 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "home-page-zeein-dairy.html": {
-      "settings": {
-        "main": true,
-        "title": "Zeein Dairy",
-        "meta_descr": "Berisi tentang harian seorang zeein yang dia tidak bisa mengungkapkannya kepada orang lain. Juga berisi tentang curhatan yang hanya orang-orang pembaca web ini yang tau.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#555555"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#666666!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#6e6e6e"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "bgColor": "#6e6e6e",
-            "fontSize": "1.05",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128-91.png",
-              "height": 128,
-              "alt": "Zeein Dairy",
-              "link": "home-page-zeein-dairy.html",
-              "title": "Zeein Dairy",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "72px"
-            }
-          },
-          "_anchor": "header1-1",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20161018-052722-2000x1500-0.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "WELCOME TO MY DIARY",
-          "text": "Isinya hanya sekedar ungkapan hati seorang zeein yang \"mungkin\" dia tidak bisa mengungkapkannya ke orang lain. Semoga kamu yang baca curhatan-curhatan aku betah ya di sini :).",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"hari-ini.html\" data-toolbar=\"-mbrBtnMove\">HARI INI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"selasa-22-nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN AKU</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-6",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
-        }
-      ]
-    },
     "tentang-aku.html": {
       "settings": {
         "title": "Tentang Aku",
@@ -2231,6 +2068,169 @@
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "home-page-zeein-diary.html": {
+      "settings": {
+        "main": true,
+        "title": "Zeein Diary",
+        "meta_descr": "Berisi tentang harian seorang zeein yang dia tidak bisa mengungkapkannya kepada orang lain. Juga berisi tentang curhatan yang hanya orang-orang pembaca web ini yang tau.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#555555"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#666666!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#6e6e6e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#6e6e6e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-91.png",
+              "height": 128,
+              "alt": "Zeein Dairy",
+              "link": "home-page-zeein-dairy.html",
+              "title": "Zeein Dairy",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20161118-134359-1-2000x1500-74.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "WELCOME TO MY DIARY",
+          "text": "Isinya hanya sekedar ungkapan hati seorang zeein yang \"mungkin\" dia tidak bisa mengungkapkannya ke orang lain. Semoga kamu yang baca curhatan-curhatan aku betah ya di sini :).",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"hari-ini.html\" data-toolbar=\"-mbrBtnMove\">HARI INI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"selasa-22-nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN AKU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
         }
       ]
     }
