@@ -21,14 +21,14 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 63,
-    "versionPublish": "3.9.2",
-    "publishType": "github",
-    "publishPath": "file:///D:/zeeindairy.github.io%20(%20GitHub%20)",
+    "uniqCompNum": 109,
+    "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "home-page-zeein-dairy.html": {
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
         },
         {
           "_tags": [
@@ -168,9 +168,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "WELCOME TO MY DAIRY",
+          "title": "WELCOME TO MY DIARY",
           "text": "Isinya hanya sekedar ungkapan hati seorang zeein yang \"mungkin\" dia tidak bisa mengungkapkannya ke orang lain. Semoga kamu yang baca curhatan-curhatan aku betah ya di sini :).",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"hari-ini.html\" data-toolbar=\"-mbrBtnMove\">HARI INI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"minggu-20-nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN AKU</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"hari-ini.html\" data-toolbar=\"-mbrBtnMove\">HARI INI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"selasa-22-nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN AKU</a>"
         },
         {
           "_tags": [
@@ -191,325 +191,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
-        }
-      ]
-    },
-    "hari-ini.html": {
-      "settings": {
-        "title": "Hari ini",
-        "meta_descr": "Semua yang terjadi pada hari ini. Peristiwa menyenangkan atau menyedihkan semua ada di sini.",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            },
-            ".lead P": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-i",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20161120-053049-2000x1500-47.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "HARI INI",
-          "text": "<p>Artikel tentang harian aku, baik itu merupakan kejadian yang menyenangkan atau bahkan merupakan kejadian yang menyedihkan.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Menyeberang Merak-Bakau",
-          "meta": "zeein, di poskan tanggal 21 Nopember, 2016"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#555555"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#666666!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#6e6e6e"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-9",
-          "_params": {
-            "bgColor": "#6e6e6e",
-            "fontSize": "1.05",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128-4.png",
-              "height": 128,
-              "alt": "Zeein Dairy",
-              "link": "home-page-zeein-dairy.html",
-              "title": "Zeein Dairy",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-a",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Kami sampai Pelabuhan Merak yang berlokasi di Daerah Banten tepat pukul 6.20, kami langsung menuju pelabuhan.</p><p>Di tengah perjalanan kami di tawari beberapa ojek yang sedang mangkal di daerah situ, mereka berkata (mereka mengira kami tidak pernah menyeberang XD) :</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Mas, pak pelabuhan kan ? Jauh pak sini sana, ayo 15000 aja</blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Haha, aku dan ayahku hanya mengabaikan tawaran ojek-ojek tersebut sambil sesekali menyela dengan berkata :</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1l",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Sekalian olahraga pak, hehe biar sehat</blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1m",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Jam menunjukkan pukul 6.28..</p><p>Berjalan tidak sampai 10 menit kami sudah sampai di Pelabuhan Merak. Masih dengan berisik suara-suara mesin kendaraan yang sedang menunggu giliran membeli tiket masuk ke Pelabuhan. Kami langsung menuju ke loket tempat membeli tiket Kapal penyeberangan, dengan syarat harus membawa <b>KTP</b>&nbsp;masing-masing. Ayah ku dan aku pun mengeluarkan <b>KTP</b>&nbsp;dan mba agen pun menunjukkan berapa nominal harga tiket. Waktu itu tiket kapal masih 13000 tidak tau untuk saat utuk saat ini sudah naik atau belum. Ada dua jenis tiket kapal yang yaitu :</p><p><br></p><ul><li>E-Tiket (digunakan untuk masuk melewati pintu dengan cara menempelkan bagian belakang E-Tiket ke pintu tersebut maka tanda pada pintu itu akan berubah menjadi hijau, dan pintu itu dapat kita lewati).</li><li>Tiket Koran (berbetntuk seperti nota pembelian di Indomaret atau Alfamart. Hanya di gunakan di dalam kapal untuk jaga-jaga aja).</li></ul><p><br></p><p>Jam menunjukkan pukul 6.36..</p><p>Kami pun melewati pintu pertama yang menggunakan E-TIket dan menuju ke deramaga 3 (tergantung kapal yang berhenti saat itu). Ayahku terlihat terburu-buru sekali, mungkin karena pekerjaannya.</p><p>Setelah masuk ke dalam kapal ayahku langsung menuju Eksekutif Class aku pun mengikutinya sambil sesekali memfoto pemandangan asri pantai selat sunda sebelum aku bertolak menuju Pelabuhan Bakauheni.</p><p><br></p><p>Jam menunjukkan pukul 6.59..</p><p>Setelah mencari tempat duduk yang nyaman ayahku menyuruhku untuk membeli 2 pop mie. Aku pun menurutuinya, sembari mengobrol dengan Pramugara yang sedang menyeduh pop mie tersebut.</p><p>Aku kembali dengan membawa 2 pop mie, satu untukku satunya lagi untuk ayahku. Kami berdua pun menikmati pop mie sambil sesekali ayahku melirik ke Handphonenya mengcek ada tidaknya SMS/BBM/WA masuk.</p><p><br></p><p>Jam menunjukkan pukul 7.20..</p><p>Kapal pun bersiap untuk berangkat dengan nada klakson khasnya. Pop mie yang ayah ku dan aku makan pun sudah habis, sesekali aku menengok jendela luar dengan menarik nafas panjang berharap dia&nbsp;ikut bersamaku di perjalanan ini.</p><p>Tak lama kemudian kru kapal pun datang menghampiri aku dan ayahku meminta uang untuk sewa ruangan AC, 12000 satu orang dewasa (kalau gak salah). Ayahku pun memberinya untuk dua orang termasuk aku.</p><p><br></p><p>Jam menunjukkan pukul 7.50..</p><p>Belum ada setengah jalan dari Pelabuhan Merak, aku merasa sangat bosan. Aku pun memilih berjalan ke luar sembari menikmati terpaan angin laut dan terik matahari pagi yang menusuk kulit.</p><p>Berbekal kamera Handphone cina 8MP, aku memfoto semua pemandangan yang ada di sekelilingku. Aku mencoba selfie tapi tidak pernah pede entah kenapa. </p><p>Foto-foto yang aku dapatkan satu-dua aku kirimkan ke Kak Rista agar dia bisa ikut melihat dan merasakan perjalanan ku kali ini. DIa pun berkomentar :</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1n",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Kamu bikin aku inget sama <i>dia</i>, mbol mbol :'D</blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Haha, Kakak kakak, ya sudah akupun kembali ke ruang Eksekutif dan mencari tempat duduk tadi. Ayahku tertidur kelelahan, aku pun tak sampai hati membiarkannya seperti itu. Perlahan aku pijat jari-jari kakinya secara berurutan. Dia pun terbangun, aku langsung berhenti namun dia menyruhku untuk melanjutkannya saja.</p><p><br></p><p>Jam menunjukkan pukul 8.35..</p><p>Sudah setengah perjalanan lebih, ayahku menyuruhku berhenti memijat kakinya. Aku pun berhenti melakukannya.</p><p>Benar-benar perjalanan yang sangat membosankan. Aku membuka Handphone ku dan kemudian menuju Gallery untuk melihat hasil jepretan demi jepretan. Tak terasa aku pun tak kuasa menahan kantuk yang sangat.</p><p><br></p><p>AKu pun terlelap..</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1p",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "BAGIKAN CERITA AKU ?"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-1q",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "file:///C:/Users/acer%20aspire/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -607,7 +288,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
         },
         {
           "_tags": [
@@ -1076,7 +757,7 @@
     },
     "kegiatan-minggu-ini.html": {
       "settings": {
-        "order": 5,
+        "order": 8,
         "title": "Kegiatan Minggu ini.",
         "meta_descr": "Berbagai kegiatan yang aku lakukan selama satu minggu ini."
       },
@@ -1168,7 +849,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
         },
         {
           "_tags": [
@@ -1196,7 +877,7 @@
       "settings": {
         "title": "Minggu, 20-Nopember-2016",
         "meta_descr": "Cerita pada hari Minggu, 20-Nopember-2016",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -1286,7 +967,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
         },
         {
           "_tags": [
@@ -1465,6 +1146,1074 @@
           ],
           "_name": "facebook-comments-block",
           "_anchor": "facebook-comments-block-1g",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/acer%20aspire/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "hari-ini.html": {
+      "settings": {
+        "title": "Hari ini",
+        "meta_descr": "Semua yang terjadi pada hari ini. Peristiwa menyenangkan atau menyedihkan semua ada di sini.",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160923-180025-2000x1500-82.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "HARI INI",
+          "text": "<p>Artikel tentang harian aku, baik itu merupakan kejadian yang menyenangkan atau bahkan merupakan kejadian yang menyedihkan.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Tahun Baru 2016-2017",
+          "meta": "zeein, di poskan tanggal 31 Desember, 2016"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#555555"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#666666!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#6e6e6e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "bgColor": "#6e6e6e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-4.png",
+              "height": 128,
+              "alt": "Zeein Dairy",
+              "link": "home-page-zeein-dairy.html",
+              "title": "Zeein Dairy",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Tak terasa sudah kita hidup di penghujung tahun 2016 lebih tepatnya tanggal 31-Desember-2016.</p><p>Yah, aku tidak menghabiskan banyak waktu dengan teman-teman di luar sana, aku hanya bertapa di depan laptopku yang selalu setia walau kadang aku sedikit keras kepadanya haha.</p><p><br></p><p>Hari ini aku sudah berencara untuk bermain game bersama mba mita (saudaraku dari bude, kakaknya ibuku), aku sudah berencana untuk bermain game Rayman Origins, tetapi aku malah belum mendownloadnya XD. Sore-sore aku ke Kebumen Kota untuk membeli pasir kucing, sambil mengobrol sebentar dengan bapak pemilik toko.</p><p><br></p><p>SUdah membeli, langsung aku berniat menuju warnet, akan tetapi hari sudah sore dan matahari sudah mulai terbenam di tambah lagi nanti malam juga tahun baru haduh jalanan macet deh.</p><p><br></p><p>Jam menunjukkan pukul 17:45..</p><p>Sudah hampir maghrib, ya sudah akupun langusng kembali ke rumah, bersiap-siap solat ke masjid.</p><p><br></p><p>Jam menunjukkan pukul 18::35..</p><p>Sudah selesai solat aku menuju rumah embah, kemudain aku di tawari makan.</p><p>Sudah kenyang aku kembali kerumah aku.</p><p><br></p><p>Jam menunjukkan pukul 19:25..</p><p>Adzan isya berkumandang, aku langusng menuju masjid.</p><p><br></p><p>Sudah selesai, aku langsung mengunci semua pintu dan jendela, tidak lupa membaca do'a.</p><p>Aku pun bermain game hingga jam menunjukkan pukul 1:30.. dini hari XD.</p><p><br></p><p>Setelah itu, akupun tertidur hingga pagi..</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1p",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "BAGIKAN CERITA AKU ?"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1q",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/acer%20aspire/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "senin-21-nopember-2016.html": {
+      "settings": {
+        "title": "Senin, 21 Nopember 2016",
+        "meta_descr": "Cerita pada hari Senin, 21 Nopember 2016",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20161120-053049-2000x1500-47.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "HARI INI",
+          "text": "<p>Artikel tentang harian aku, baik itu merupakan kejadian yang menyenangkan atau bahkan merupakan kejadian yang menyedihkan.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Menyeberang Merak-Bakau",
+          "meta": "zeein, di poskan tanggal 21 Nopember, 2016"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#555555"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#666666!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#6e6e6e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-26",
+          "_params": {
+            "bgColor": "#6e6e6e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-4.png",
+              "height": 128,
+              "alt": "Zeein Dairy",
+              "link": "home-page-zeein-dairy.html",
+              "title": "Zeein Dairy",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-27",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Kami sampai Pelabuhan Merak yang berlokasi di Daerah Banten tepat pukul 6.20, kami langsung menuju pelabuhan.</p><p>Di tengah perjalanan kami di tawari beberapa ojek yang sedang mangkal di daerah situ, mereka berkata (mereka mengira kami tidak pernah menyeberang XD) :</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-29",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Mas, pak pelabuhan kan ? Jauh pak sini sana, ayo 15000 aja</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Haha, aku dan ayahku hanya mengabaikan tawaran ojek-ojek tersebut sambil sesekali menyela dengan berkata :</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Sekalian olahraga pak, hehe biar sehat</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Jam menunjukkan pukul 6.28..</p><p>Berjalan tidak sampai 10 menit kami sudah sampai di Pelabuhan Merak. Masih dengan berisik suara-suara mesin kendaraan yang sedang menunggu giliran membeli tiket masuk ke Pelabuhan. Kami langsung menuju ke loket tempat membeli tiket Kapal penyeberangan, dengan syarat harus membawa <b>KTP</b>&nbsp;masing-masing. Ayah ku dan aku pun mengeluarkan <b>KTP</b>&nbsp;dan mba agen pun menunjukkan berapa nominal harga tiket. Waktu itu tiket kapal masih 13000 tidak tau untuk saat utuk saat ini sudah naik atau belum. Ada dua jenis tiket kapal yang yaitu :</p><p><br></p><ul><li>E-Tiket (digunakan untuk masuk melewati pintu dengan cara menempelkan bagian belakang E-Tiket ke pintu tersebut maka tanda pada pintu itu akan berubah menjadi hijau, dan pintu itu dapat kita lewati).</li><li>Tiket Koran (berbetntuk seperti nota pembelian di Indomaret atau Alfamart. Hanya di gunakan di dalam kapal untuk jaga-jaga aja).</li></ul><p><br></p><p>Jam menunjukkan pukul 6.36..</p><p>Kami pun melewati pintu pertama yang menggunakan E-TIket dan menuju ke deramaga 3 (tergantung kapal yang berhenti saat itu). Ayahku terlihat terburu-buru sekali, mungkin karena pekerjaannya.</p><p>Setelah masuk ke dalam kapal ayahku langsung menuju Eksekutif Class aku pun mengikutinya sambil sesekali memfoto pemandangan asri pantai selat sunda sebelum aku bertolak menuju Pelabuhan Bakauheni.</p><p><br></p><p>Jam menunjukkan pukul 6.59..</p><p>Setelah mencari tempat duduk yang nyaman ayahku menyuruhku untuk membeli 2 pop mie. Aku pun menurutuinya, sembari mengobrol dengan Pramugara yang sedang menyeduh pop mie tersebut.</p><p>Aku kembali dengan membawa 2 pop mie, satu untukku satunya lagi untuk ayahku. Kami berdua pun menikmati pop mie sambil sesekali ayahku melirik ke Handphonenya mengcek ada tidaknya SMS/BBM/WA masuk.</p><p><br></p><p>Jam menunjukkan pukul 7.20..</p><p>Kapal pun bersiap untuk berangkat dengan nada klakson khasnya. Pop mie yang ayah ku dan aku makan pun sudah habis, sesekali aku menengok jendela luar dengan menarik nafas panjang berharap dia&nbsp;ikut bersamaku di perjalanan ini.</p><p>Tak lama kemudian kru kapal pun datang menghampiri aku dan ayahku meminta uang untuk sewa ruangan AC, 12000 satu orang dewasa (kalau gak salah). Ayahku pun memberinya untuk dua orang termasuk aku.</p><p><br></p><p>Jam menunjukkan pukul 7.50..</p><p>Belum ada setengah jalan dari Pelabuhan Merak, aku merasa sangat bosan. Aku pun memilih berjalan ke luar sembari menikmati terpaan angin laut dan terik matahari pagi yang menusuk kulit.</p><p>Berbekal kamera Handphone cina 8MP, aku memfoto semua pemandangan yang ada di sekelilingku. Aku mencoba selfie tapi tidak pernah pede entah kenapa. </p><p>Foto-foto yang aku dapatkan satu-dua aku kirimkan ke Kak Rista agar dia bisa ikut melihat dan merasakan perjalanan ku kali ini. DIa pun berkomentar :</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Kamu bikin aku inget sama <i>dia</i>, mbol mbol :'D</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Haha, Kakak kakak, ya sudah akupun kembali ke ruang Eksekutif dan mencari tempat duduk tadi. Ayahku tertidur kelelahan, aku pun tak sampai hati membiarkannya seperti itu. Perlahan aku pijat jari-jari kakinya secara berurutan. Dia pun terbangun, aku langsung berhenti namun dia menyruhku untuk melanjutkannya saja.</p><p><br></p><p>Jam menunjukkan pukul 8.35..</p><p>Sudah setengah perjalanan lebih, ayahku menyuruhku berhenti memijat kakinya. Aku pun berhenti melakukannya.</p><p>Benar-benar perjalanan yang sangat membosankan. Aku membuka Handphone ku dan kemudian menuju Gallery untuk melihat hasil jepretan demi jepretan. Tak terasa aku pun tak kuasa menahan kantuk yang sangat.</p><p><br></p><p>AKu pun terlelap..</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-2f",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "BAGIKAN CERITA AKU ?"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-2g",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/acer%20aspire/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "selasa-22-nopember-2016.html": {
+      "settings": {
+        "title": "Selasa, 22 Nopember 2016",
+        "meta_descr": "Cerita pada hari Selasa, 22 Nopember 2016",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20161127-122420-2000x1500-89.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "HARI INI",
+          "text": "<p>Artikel tentang harian aku, baik itu merupakan kejadian yang menyenangkan atau bahkan merupakan kejadian yang menyedihkan.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Hari pertama di Lampung",
+          "meta": "zeein, di poskan tanggal 22 Nopember, 2016"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#555555"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#666666!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#6e6e6e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2n",
+          "_params": {
+            "bgColor": "#6e6e6e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-4.png",
+              "height": 128,
+              "alt": "Zeein Dairy",
+              "link": "home-page-zeein-dairy.html",
+              "title": "Zeein Dairy",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Hari yang cerah dengan pancaran sinar matahari yang menghangatkan tubuh disertai domba-domba putih saling bergumul seloah sedang bermain di tengah lautan luas.</p><p><br></p><p>Hari yang sudah sangat kunantikan, planning hari ini aku mau pergi ke Pak Agus untuk mengambil Ijazah SMA ku. Sebelumnya aku berjalan-jalan sejenak di temani oleh kicauan burung dan pepohonan yang melambai seolah mengajakku untuk bermain bersama.</p><p>Aku berjalan sendiri menuju tepi pantai yang berada tepat di depan rumahku di Lampung, lebih tepatnya di Suak, Kota Dalam, Lampung Selatan. Deburan ombak dan terpaan angin pantai pagi segar sudah sangat aku rindukan mengingat sebagian besar kehidupanku yang sekarang adalah di Jawa.</p><p><br></p><p>Kuambil handphone ku, lalu ku abadikan momen-momen indah di pantai Suak depan rumahku. Cekrek sana, cekrek sini hingga ku rasa puas sudah memori handphone ku yang mulai penuh haha XD.</p><p><br></p><p>Jam menunjukkan pukul 7.23..</p><p>Setelah puas dengan cekrek-cekrek ku, aku pun kembali kerumah. Di dalam sudah menunggu ayahku, dia sedang duduk sembari menikmati tayangan TV pagi di temani secangkir teh hangat dan keripik tempe lezat oleh-oleh dari Jawa.</p><p><br></p><p>Dia menyadari kedatanganku lalu dia berkata :</p><p><br></p><blockquote><p>Ayahku : \"mau kesana kapan ?\"</p><p>Aku : \"Insyaallah jam 8-an, soalnya mungkin baru aktif jam segitu\"</p><p>Ayahku : \"oh yaudah mending sekarang siap-siapnya biar nanti sante\"</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p></p><p>AKu pun menuruti ayahku dan mulai bersiap-siap. Barang-barang yang sekiranya aku perlukan aku bawa semua. Mulai dari pulpen, kertas,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">pas foto, hingga foto copy KTP yang mungkin tidak aku perlukan untuk pengambilan Ijazah SMA ku XD.</span></p><p>Sembari menunggu nasi yang aku tanak di mejikkom, aku mengeluarkan lauk dan sayur yang aku taruh di kulkas. Tanpa menghangatkannya karena menghangatkan makanan merupakan tindakan yang menurut ahli kesehatan tidak baik untuk kesehatan tubuh.</p><p><br></p><p>Setelah itu aku langsung menuju ke kamar mandi lalu aku mandi hingga selesai. Akhirnya, mejikkom pun sudah menunjukkan warna hijau yang artinya kami sudah bisa memakannya.</p><p><br></p><p>Aku pun mengajak ayahku untuk makan, lalu ia pun mengiyakan ajakanku.</p><p>Kami pun makan berdua, sunyi kembali mengisi waktu makan kami, hingga ayahku memulai pembicaraan bertemakan tentang planning hari ini mau ngapain aja, bla-bla dll.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jam menunjukkan pukul 7.49..</span></p><p>Setelah selesai semua, aku pun mengantarkan ayahku ke kantor, kemudian aku menyalaminya. Lalu aku pun menuju ke SMA ku untuk mengambil Ijazah. Perjalanan di temani dengan samping kiri-kanan bukit dan pertanian kelapa sawit. Karena pulau Sumatera juga di kenal dengan pertanian kelapa sawitnya yang lebih maju dari pertanian padinya.</p><p><br></p><p>Jam menunjukkan pukul 8.25..</p><p>Setengah jam ku lalui bersama Mio Biru 110 yang sudah mengantarku ke SMA ku ini. Langsung saja aku menuju rumah Pak Agus yang tidak jauh dari Sekolah biru putih yang sudah kutinggalkan dan sekarang hanya menjadi kenangan indah yang takkan terlupakan.</p><p><br></p><blockquote><p><font face=\"Oswald, sans-serif\"><span style=\"line-height: 26px;\">Aku : \"Assalamu'alaikum\"</span></font></p><p><span style=\"line-height: 26px;\"><i>terdengar suara</i>, \"wa'alikum salam\"</span></p><p><span style=\"line-height: 26px;\">Pak Agus : Kamu lama amat gak kesini, tinggal punya kamu aja yang belum di ambil loh\"</span></p><p><span style=\"line-height: 26px;\">Aku : \"hehe, iya nih pak, soalnya aku di Jogja sekarang , udah gak di Lampung lagi\"</span></p><p><span style=\"line-height: 26px;\">Pak Agus : \"ooh, bla-bla\"</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Kami ngobrol bersama hingga mungkin jam menunjukkan pukul 9.11..</p><p>Sudah cap tiga jari, aku langsung menuju kantor <b>Dinas Pendidikan </b>untuk meminta leglisir setiap helai Ijazah yang sebelumnya sudah aku fotokopi di tukang fotokopi dekat dengan kantor tersebut.</p><p><br></p><p>Setelah menunggu sekitar 10 menitan, aku di panggil lagi untuk mengambil ijazahnya kembali, aku berterima kasih kepada bapak itu, lalu aku berpamitan.</p><p>Aku sengaja mampir ke Kalianda untuk melihat bagaimana rumah kami yang di Kalianda, dan bagaimana keadaan kawan-kawan deket musola tempat ku dulu solat 5 waktu sehari-hari.</p><p><br></p><p>Sudah puas berajalan-jalan, aku kembali kerumah.</p><p><br></p><p>Lalu kututup catatan harianku dengan rasa syukur kepada <b>Alloh</b> ta'ala...</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-2s",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "BAGIKAN CERITA AKU ?"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-2t",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/acer%20aspire/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    },
+    "sabtu-31-desember-2016.html": {
+      "settings": {
+        "title": "Sabtu 31 Desember 2016",
+        "meta_descr": "Semua yang terjadi pada hari ini. Peristiwa menyenangkan atau menyedihkan semua ada di sini.",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160923-180025-2000x1500-82.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "HARI INI",
+          "text": "<p>Artikel tentang harian aku, baik itu merupakan kejadian yang menyenangkan atau bahkan merupakan kejadian yang menyedihkan.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Tahun Baru 2016-2017",
+          "meta": "zeein, di poskan tanggal 31 Desember, 2016"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#555555"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#666666!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#6e6e6e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2w",
+          "_params": {
+            "bgColor": "#6e6e6e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-4.png",
+              "height": 128,
+              "alt": "Zeein Dairy",
+              "link": "home-page-zeein-dairy.html",
+              "title": "Zeein Dairy",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home-page-zeein-dairy.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HARIAN ZEEIN</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home-page-zeein-dairy.html\" aria-expanded=\"true\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>HARIAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SENIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SELASA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">RABU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">KAMIS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">JUM'AT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">SABTU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"home-page-zeein-dairy.html\">MINGGU</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tentang-aku.html\">TENTANG AKU</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 <a href=\"home-page-zeein-dairy.html\">ZEEINDAIRY</a>."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Tak terasa sudah kita hidup di penghujung tahun 2016 lebih tepatnya tanggal 31-Desember-2016.</p><p>Yah, aku tidak menghabiskan banyak waktu dengan teman-teman di luar sana, aku hanya bertapa di depan laptopku yang selalu setia walau kadang aku sedikit keras kepadanya haha.</p><p><br></p><p>Hari ini aku sudah berencara untuk bermain game bersama mba mita (saudaraku dari bude, kakaknya ibuku), aku sudah berencana untuk bermain game Rayman Origins, tetapi aku malah belum mendownloadnya XD. Sore-sore aku ke Kebumen Kota untuk membeli pasir kucing, sambil mengobrol sebentar dengan bapak pemilik toko.</p><p><br></p><p>SUdah membeli, langsung aku berniat menuju warnet, akan tetapi hari sudah sore dan matahari sudah mulai terbenam di tambah lagi nanti malam juga tahun baru haduh jalanan macet deh.</p><p><br></p><p>Jam menunjukkan pukul 17:45..</p><p>Sudah hampir maghrib, ya sudah akupun langusng kembali ke rumah, bersiap-siap solat ke masjid.</p><p><br></p><p>Jam menunjukkan pukul 18::35..</p><p>Sudah selesai solat aku menuju rumah embah, kemudain aku di tawari makan.</p><p>Sudah kenyang aku kembali kerumah aku.</p><p><br></p><p>Jam menunjukkan pukul 19:25..</p><p>Adzan isya berkumandang, aku langusng menuju masjid.</p><p><br></p><p>Sudah selesai, aku langsung mengunci semua pintu dan jendela, tidak lupa membaca do'a.</p><p>Aku pun bermain game hingga jam menunjukkan pukul 1:30.. dini hari XD.</p><p><br></p><p>Setelah itu, akupun tertidur hingga pagi..</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-2z",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "BAGIKAN CERITA AKU ?"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-30",
           "_params": {
             "postsNumber": 5,
             "bgImage": "file:///C:/Users/acer%20aspire/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
