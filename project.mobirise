@@ -2236,7 +2236,7 @@
           },
           "title": "WELCOME TO MY DIARY",
           "text": "Isinya hanya sekedar ungkapan hati seorang zeein yang \"mungkin\" dia tidak bisa mengungkapkannya ke orang lain. Semoga kamu yang baca curhatan-curhatan aku betah ya di sini :).",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"hari-ini.html\" data-toolbar=\"-mbrBtnMove\">HARI INI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"selasa-22-nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN AKU</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN NOPEMBER 2016</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"hari-ini.html\" data-toolbar=\"-mbrBtnMove\">HARI INI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"selasa-22-nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN AKU</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"selasa-22-nopember-2016.html\" data-toolbar=\"-mbrBtnMove\">HARIAN NOPEMBER 2016</a> "
         },
         {
           "_tags": [
